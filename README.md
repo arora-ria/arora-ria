@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working as a Software Engineer at Salesforce, transforming traditional workflows with AI agents. 
-- 🌱 I’m currently exploring Applied ML, GenAI Evals, LLMs and all things AI !
-- 💬 Ask me about Distributed Systems, AI Agents, Retrieval-Augmented Generation, Women In Tech.
+- 🔭 Currently working as a Software Engineer at Salesforce, building AI-powered systems that transform traditional workflows and user experiences.
+- 🌱 Exploring Applied ML, GenAI Evaluation, LLM systems, and AI infrastructure.
+- 💬 Ask me about Distributed Systems, AI Agents, Retrieval-Augmented Generation (RAG), and Women in Tech.
 - 📫 How to reach me:
 
   <a href="https://www.linkedin.com/in/ria-arora/" target="_blank">
