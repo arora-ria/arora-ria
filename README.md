@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, 
+I am Ria.
 - 🔭 Currently working as a Software Engineer at Salesforce, building AI-powered systems that transform traditional workflows and user experiences.
 - 🌱 Exploring Applied ML, GenAI Evaluation, LLM systems, and AI infrastructure.
 - 💬 Ask me about Distributed Systems, AI Agents, Retrieval-Augmented Generation (RAG), and Women in Tech.
