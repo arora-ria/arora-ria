@@ -6,6 +6,10 @@
 
   <a href="https://www.linkedin.com/in/ria-arora/" target="_blank">
   <img src="icons/linkedin.svg" width="35" height="35" alt="LinkedIn">
+  </a> 
+  &nbsp;               
+  <a href="https://x.com/auror_ria" target="_blank">
+    <img src="icons/twitter-x.svg" width="35" height="35" alt="Twitter">
   </a>
 
 
