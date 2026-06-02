@@ -55,12 +55,9 @@ Previously worked at **Myntra (Walmart)** building distributed systems serving m
 
 ## 📈 What You'll Find Here
 
-* AI Engineering projects
-* Distributed Systems experiments
-* Backend architecture demos
-* LLM and Agent frameworks
-* Open-source contributions
-* Learning notes and technical explorations
+* Project #1 URL
+* Project #2 URL
+* Project #3 URL
 
 ---
 
