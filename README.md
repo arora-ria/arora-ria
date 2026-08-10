@@ -6,7 +6,7 @@ Currently working at **Salesforce**, where I help transform traditional workflow
 
 Previously worked at **Myntra (Walmart)** building distributed systems serving millions of users.
 
-As an undergraduate, I also interned at **Google** where I developed a full stack project tracker using Google Sheets. 
+As an undergraduate, I also interned at **Google** where I designed and built a full stack project tracker using Google Sheets. 
 
 ---
 
