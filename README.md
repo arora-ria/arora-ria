@@ -2,7 +2,7 @@
 
 Software Engineer passionate about building scalable systems, AI-powered products, and developer tools.
 
-Currently working at **Salesforce**, where I help transform traditional workflows using AI-driven systems and large-scale backend infrastructure.
+Currently working at **Salesforce**, where I am building LLM-powered AI capabilities and transforming traditional workflows.
 
 Previously worked at **Myntra (Walmart)** building distributed systems serving millions of users.
 
