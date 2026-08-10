@@ -25,7 +25,6 @@ As an undergraduate, I also interned at **Google** where I designed and built a 
 * AI Agents
 * LLM Applications
 * Retrieval-Augmented Generation (RAG)
-* Software Engineering Careers
 * Women in Tech
 
 ---
