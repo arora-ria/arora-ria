@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ria
+# Hi there 👋 ... I am Ria
 
 Software Engineer passionate about building scalable systems, AI-powered products, and developer tools.
 
@@ -6,58 +6,15 @@ Currently working at **Salesforce**, where I help transform traditional workflow
 
 Previously worked at **Myntra (Walmart)** building distributed systems serving millions of users.
 
+As an undergraduate, I also interned at **Google** where I developed a full stack project tracker using Google Sheets. 
+
 ---
 
 ## 🚀 About Me
 
-* 💼 Software Engineer with 5+ years of industry experience
-* 🤖 Exploring AI Agents, LLM Systems, RAG, Evals, and Applied ML
-* ⚙️ Experienced in Distributed Systems, Backend Engineering, and Cloud Architectures
-* 📚 Interested in Cognitive Science, Human-AI Collaboration, and AI Safety
-* 🌱 Currently learning everything happening in modern AI engineering
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-`Java` `JavaScript` `TypeScript` `Python` `C++`
-
-### Backend
-
-`Spring Boot` `REST APIs` `Microservices` `Distributed Systems`
-
-### AI / ML
-
-`LLMs` `RAG` `AI Agents` `Prompt Engineering` `GenAI Evals` `Vector Databases`
-
-### Cloud & Infrastructure
-
-`AWS` `Kubernetes` `Docker` `CI/CD` `Observability`
-
-### Databases
-
-`MySQL` `PostgreSQL` `Redis`
-
----
-
-## 🔭 Current Focus
-
-* Building production-grade AI applications
-* LLM evaluation frameworks
-* Agentic workflows
-* Retrieval-Augmented Generation (RAG)
-* Scalable distributed systems
-* Human-AI collaboration
-
----
-
-## 📈 What You'll Find Here
-
-* Project #1 URL
-* Project #2 URL
-* Project #3 URL
+* 💼 Software Engineer with 5+ years of industry experience.
+* ⚙️ Experienced as a Full Stack engineer working with large-scale production systems handling millions of requests and complex workflows and building customer facing enterprise AI Agents.
+* 🤖 Currently exploring Applied ML, LLM Systems, RAG and Evals.
 
 ---
 
@@ -75,11 +32,6 @@ Previously worked at **Myntra (Walmart)** building distributed systems serving m
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* Portfolio: https://yourwebsite.com
-
+* LinkedIn: https://linkedin.com/in/ria-arora
+  
 ---
-
-> Building systems that scale, and exploring how humans and AI can work together more effectively.
-
